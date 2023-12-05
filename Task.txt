@@ -1,0 +1,16 @@
+Дані які потрібно отримати:
+Марка, модель, год, пробег, ну и вид трансмисии, хотя последнее не обязательно.
+бот присылает ссылку на обьявление, главное фото
+И если была бы возможность менять гео(Только Канада), было бы супер.
+Гео Торонто + 250км
+Так же если получиться было бы супер выбирать любой город в Канаде и растояние поиска от него. 
+Бот должен мониторить постоянно площадку ну либо обновлять алгоритм поиска каждые 10-15 сек например. 
+
+Лінки для парсингу
+https://www.facebook.com/marketplace/?ref=bookmark
+https://www.facebook.com/marketplace/category/vehicles
+
+для роботи
+https://www.facebook.com/marketplace/toronto/vehicles?maxPrice=2000&maxMileage=10000&maxYear=2000&minMileage=1000&minYear=1000&make=280909549507187&transmissionType=automatic&exact=false
+
+https://www.facebook.com/marketplace/toronto/vehicles?maxPrice=2000&maxMileage=10000&maxYear=2000&minMileage=1000&minYear=1000&make=280909549507187&transmissionType=manual&exact=false
